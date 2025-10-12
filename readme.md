@@ -3,7 +3,7 @@ title: "SD-Karten-Shield"
 date: "2018-10-01T15:19:28.000Z"
 tags: 
   - "shield"
-coverImage: "73_sd-karten_shield.jpg"
+coverImage: "73_sd-karten_shield.png"
 material_number: "73"
 material_type: "shield"
 material_short_descr: "Seeed Studio Grove – SD Card Shield V4"
